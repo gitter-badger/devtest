@@ -1,0 +1,21 @@
+{
+  "name": "devtest",
+  "version": "0.0.0",
+  "authors": [
+    "rstormsf <rstormsf@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_comp",
+    "www/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "i18next": "~1.7.3",
+    "font-awesome": "~4.1.0",
+    "ratchet": "~2.0.2"
+  }
+}

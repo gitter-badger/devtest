@@ -1,0 +1,12 @@
+.idea/
+.DS_Store
+.sass-cache/
+.tx/
+transifex/
+Icon?
+node_modules/
+www/
+plugins/
+bower_comp/
+platforms/
+src/locales/en-US/*_old.json
